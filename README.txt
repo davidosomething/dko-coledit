@@ -4,8 +4,8 @@ Tags: custom, fields, metadata, edit, meta
 Requires at least: 3.2.1
 Tested up to: 3.4
 Stable tag: 1.0
-License: GPLv2
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPL v3
+License URI: http://www.gnu.org/licenses/gpl.html
 
 Adds a column to the post listing page to search and quick edit custom fields.
 
