@@ -1,0 +1,63 @@
+.DKOColEdit-wrapper h6,
+.DKOColEdit-wrapper p {
+  margin: 0;
+}
+
+.DKOColEdit-select2,
+.DKOColEdit-wrapper input {
+  clear: both;
+  width: 85%;
+}
+
+.DKOColEdit-wrapper input.DKOColEdit-add-key-input {
+  width: 70%;
+}
+
+  .DKOColEdit-add-field,
+  .DKOColEdit-delete-field {
+    cursor: pointer;
+  }
+
+.DKOColEdit-wrapper section {
+  margin: 10px 0;
+}
+.DKOColEdit-add-key-section {
+}
+  .DKOColEdit-add-key {
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 4px;
+  }
+  .DKOColEdit-add-key-section a {
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 1em;
+  }
+
+
+.DKOColEdit_custom_fields .icon {
+  background-color: transparent;
+  background-position: center bottom;
+  background-repeat: none;
+  border: 0;
+  color: transparent;
+  display: inline-block;
+  font: 0/0 a;
+  height: 16px;
+  text-shadow: none;
+  vertical-align: text-bottom;
+  width: 16px;
+}
+.DKOColEdit_custom_fields a:hover .icon,
+.DKOColEdit_custom_fields .icon:hover {
+  background-position: center top;
+}
+.DKOColEdit_custom_fields .icon-add {
+  background-image: url(../img/plus.png);
+}
+.DKOColEdit_custom_fields .icon-save {
+  background-image: url(../img/disk.png);
+}
+.DKOColEdit_custom_fields .icon-delete {
+  background-image: url(../img/slash.png);
+}
